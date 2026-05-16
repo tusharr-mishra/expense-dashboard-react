@@ -8,7 +8,7 @@ Track daily spending, monitor category-wise expenses, and convert totals into mu
 
 <br/>
 
-<a href="YOUR_LIVE_LINK_HERE">
+<a href=" https://tusharr-mishra.github.io/expense-dashboard-react/">
   <img src="https://img.shields.io/badge/◈ LIVE DEMO-Open Dashboard-22c55e?style=for-the-badge&labelColor=111827" />
 </a>
 
