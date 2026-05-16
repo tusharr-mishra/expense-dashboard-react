@@ -8,7 +8,7 @@ Track daily spending, monitor category-wise expenses, and convert totals into mu
 
 <br/>
 
-<a href=" https://tusharr-mishra.github.io/expense-dashboard-react/">
+<a href="https://expense-dashboard-react.vercel.app">
   <img src="https://img.shields.io/badge/◈ LIVE DEMO-Open Dashboard-22c55e?style=for-the-badge&labelColor=111827" />
 </a>
 
